@@ -1,0 +1,21 @@
+Bloom Room design assets
+
+key.png: unchanged copy of ui reference/Room 3 item.png
+bow.png: unchanged copy of ui reference/bows.PNG
+star.png: unchanged copy of ui reference/small star.png
+
+The user supplied these designer references and assets for this product implementation.
+house-logos.png: transparent crayon logo sheet prepared from the user's supplied
+Screenshot 2026-10-04 at 10.40.21 AM.png using built-in imagegen background extraction.
+The page uses separate SVG viewports of that sheet, preserving its transparency.
+Mood 1 uses the right purple-roof/yellow-body house; Mood 2 uses the left
+yellow-roof/purple-body CMHC house. logo-macaron.svg and logo-woodland.svg
+embed the same PNG in standalone viewports for offline-safe favicons.
+Mood 1 and Mood 2 colors are taken from the supplied palette images.
+
+Fonts: Barriecito and Amatic SC; HanziPen TC when installed, with Caveat as fallback.
+Bundled Google Fonts files: https://github.com/google/fonts
+Individual OFL licenses are in ../fonts/.
+
+Animation: Anime.js 4.3.6, https://animejs.com/ (MIT).
+Bundled library and license are in ../../vendor/.
