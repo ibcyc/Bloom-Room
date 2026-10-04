@@ -1,0 +1,25 @@
+{
+  "format": "RoomBloomHouse",
+  "version": 1,
+  "structure": {
+    "floors": [],
+    "walls": [],
+    "doors": []
+  },
+  "objects": [],
+  "materials": {},
+  "animal": {
+    "id": "pip",
+    "name": "Pip",
+    "grid": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "placed": false
+  },
+  "metadata": {
+    "name": "RoomBloom house",
+    "savedAt": null
+  }
+}

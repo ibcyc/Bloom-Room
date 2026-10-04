@@ -1,0 +1,12 @@
+Default lofi playlist
+
+First Snow, Laundry On The Wire, Keeping Cool
+Artist: Holizna / HoliznaCC0
+License: CC0 1.0 Universal (public-domain dedication)
+Source: https://opengameart.org/content/lo-fi-and-chill-collection
+Download: https://opengameart.org/sites/default/files/lo-fi_and_chill_lofi_collection.zip
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Verified: 2026-10-04
+Files are unmodified MP3 recordings. Bundled locally; no external music service or tracking.
+
+quiet-room.wav: original RoomBloom synthesized audio, retained as a test fixture.
